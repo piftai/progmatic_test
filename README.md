@@ -1,4 +1,4 @@
-# progmatik_test
+# progmatic_test
 This is a solution of test task.
 
 Description of the task:
