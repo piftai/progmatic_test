@@ -5,7 +5,7 @@ Description of the task:
 Напишите, пожалуйста, программу на любом языке программирования, которая поместит + (2+3), - (3-2), или ничего ( ) в промежутках между цифрами от 9 до 0 (в таком порядке) так, чтобы в результате получилось 200. Например: 98+76-5+43-2-10=200.
 
 How to use:
-1. ```git clone https://github.com/piftai/progmatik_test.git```
+1. ```git clone https://github.com/piftai/progmatic_test.git```
 2. ```cd progmatik_test```
 3. ```go run main.go```
 
