@@ -9,6 +9,8 @@ How to use:
 2. ```cd progmatik_test```
 3. ```go run main.go```
 
+If you use Go 1.24 you have to set GODEBUG=randseednop=0.
+
 Example program output:
 
 Hi, this is a solution of test task. You can read description of this task at README.md file.Complexity of my solution is O(n), also i decided to print number of steps at each solution
